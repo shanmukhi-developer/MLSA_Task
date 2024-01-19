@@ -29,7 +29,7 @@ const siteProps = {
   email: "shanmukhinadipudi@gmail.com",
   gitHub: "shanmukhi-developer",
   instagram: "",
-  linkedIn: "Nadipudi Shanmukhi satya",
+  linkedIn: "nadipudi-shanmukhi-satya-6904a0242",
   medium: "",
   twitter: "",
   youTube: "",
